@@ -1,1 +1,1 @@
-console.log("hi prabhat");
+console.write("hi prabhat");
